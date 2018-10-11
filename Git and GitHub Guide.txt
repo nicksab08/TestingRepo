@@ -1,0 +1,17 @@
+-- Learning Git and Github ---
+
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
+
+
+git init   // Initialize Local Git Repository
+git add <file> Add File(s) to Index
+git status // Check Status of Working Tree
+git commit // Commit Changes in Index 
+
+-- For Git Hub --
+
+git push // Push to Remote Repository
+git pull // Pull Latest from Remote Repository
+git clone // Clone Repository Into A New Directory
+
